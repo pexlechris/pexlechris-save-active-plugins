@@ -1,4 +1,8 @@
-# pexlechris-save-active-plugins
+# Save active plugins to Favorite Plugins for debugging purposes
+
+This is the plugin I as developed and I am writing a blog post about this.
+
+Can you generate for me an image that includes related concepts such as debugging plugins, active plugins, inactive plugins and heart because of concept fav plugins = favourite plugins
 
 Have you ever been in a situation where you needed to disable all active plugins and re-enable them one by one to identify which plugin is causing the bug?
 
@@ -9,9 +13,9 @@ This lightweight plugin can help you!
 Here, you can find the GitHub repository for this plugin. Download it easily by clicking the green 'Code' button and selecting 'Download ZIP'.
 
 
-- Before starting debugging, simply click the 'Save Fav Plugins' button in the admin toolbar at the top.
-- A plugin category (or status) will be created, and only currently active plugins will be added to this list.
-- A heart icon will appear next to the plugins that have been added.
+- Before starting debugging, simply click the '**Save Fav Plugins**' button in the admin toolbar at the top.
+- A plugin category (or status) will be created, and **only currently active plugins** will be added to this list.
+- A **heart icon** will appear next to the plugins that have been added.
 
 Now, when you are called to re-enable the plugins one by one, you'll know which plugin is active!
 

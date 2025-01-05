@@ -1,9 +1,5 @@
 # Save active plugins to Favorite Plugins for debugging purposes
 
-This is the plugin I as developed and I am writing a blog post about this.
-
-Can you generate for me an image that includes related concepts such as debugging plugins, active plugins, inactive plugins and heart because of concept fav plugins = favourite plugins
-
 Have you ever been in a situation where you needed to disable all active plugins and re-enable them one by one to identify which plugin is causing the bug?
 
 You start by disabling all plugins, but when it’s time to re-enable them one by one, do you struggle to remember which plugins were originally active?
